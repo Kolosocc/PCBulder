@@ -1,0 +1,14 @@
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\bin\Debug\net8.0\ComputerAdapter.exe
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\bin\Debug\net8.0\ComputerAdapter.deps.json
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\bin\Debug\net8.0\ComputerAdapter.runtimeconfig.json
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\bin\Debug\net8.0\ComputerAdapter.dll
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\bin\Debug\net8.0\ComputerAdapter.pdb
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.AssemblyInfoInputs.cache
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.AssemblyInfo.cs
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.csproj.CoreCompileInputs.cache
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.dll
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\refint\ComputerAdapter.dll
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.pdb
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ComputerAdapter.genruntimeconfig.cache
+G:\Three\Csh\ComputerAdapter\ComputerAdapter\obj\Debug\net8.0\ref\ComputerAdapter.dll
